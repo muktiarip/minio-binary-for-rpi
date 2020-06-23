@@ -2,4 +2,4 @@
 
 Pre-built minio binary for Raspberry Pi.
 
-Version: RELEASE.2020-06-18T02-23-35Z
+Version: RELEASE.2020-06-22T03-12-50Z
